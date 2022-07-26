@@ -28,7 +28,7 @@ label {
 
 #Uname {
        width: 300px;
-       height: 30px;
+       height: 20px;
        border: none;
        border-radius: 3px;
        padding-left: 8px;
@@ -36,10 +36,10 @@ label {
 
 #Pass {
        width: 300px;
-       height: 30px;
+       height: 20px;
        border: none;
        border-radius: 3px;
-       padding-left: 8px;
+       padding-right: 8px;
 }
 
 #log {
@@ -55,6 +55,7 @@ label {
 span {
       color: white;
       font-size: 17px;
+      text-align: right;
 }
 
 a {
